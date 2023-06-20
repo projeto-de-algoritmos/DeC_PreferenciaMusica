@@ -1,4 +1,4 @@
-# Listador de preferência musical
+# Analisador de preferência musical
 
 **Número da Lista**: 2<br>
 **Conteúdo da Disciplina**: Dividir e conquistar<br>
